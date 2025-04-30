@@ -1,11 +1,10 @@
 # convite
-BG
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Convite Apaixonado ❤️</title>
+  <title>Convite ❤️</title>
   <style>
     body {
       margin: 0;
@@ -124,7 +123,7 @@ BG
 
   <div class="container">
     <div class="heart">❤️❤️❤️</div>
-    <h1>Gustavo, aceita ir ao show do Froid?</h1>
+    <h1>Gustavo, aceita ir ao show do Froid comigo?</h1>
     <p>Prometo que esse vai ser mais um daqueles momentos nossos, cheio de significado e boiola💕</p>
     <div class="buttons">
       <button class="btn yes" onclick="alert('E ele aceitouuu!!!! te amo😍')">Sim!</button>
